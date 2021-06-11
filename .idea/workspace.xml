@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a02fce9-de04-45b5-b1e2-1726609e52e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,8 +121,16 @@
       <workItem from="1622771009667" duration="10277000" />
       <workItem from="1622787069226" duration="5177000" />
       <workItem from="1622794325891" duration="15442000" />
-      <workItem from="1623400289081" duration="369000" />
+      <workItem from="1623400289081" duration="1347000" />
     </task>
+    <task id="LOCAL-00001" summary="testjenkens">
+      <created>1623400722271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623400722271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testjenkens" />
+    <option name="LAST_COMMIT_MESSAGE" value="testjenkens" />
   </component>
 </project>
