@@ -7,4 +7,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://10.10.90.125:8761/eureka/
-
+logging:
+  file:
+    path: /opt/test/logs
